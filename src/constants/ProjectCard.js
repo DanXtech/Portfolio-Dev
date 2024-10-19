@@ -5,7 +5,7 @@ export const ProjectCard = [
       "https://res.cloudinary.com/dls0snoaa/image/upload/v1710918094/Macbook-Air-dashboard-designs-dev-1.vercel.app_1_azkebk.png",
     title: "Admin Dashboard",
     description:
-      "he Dashboard Designs Project is a web application that showcases various dashboard designs tailored for different purposes, such as analytics, reporting, and project management. The project focuses on providing a visually appealing and user-friendly interface that enhances the user experience when navigating through complex data and metrics",
+      "The Dashboard Designs Project is a web application that showcases various dashboard designs tailored for different purposes, such as analytics, reporting, and project management. The project focuses on providing a visually appealing and user-friendly interface that enhances the user experience when navigating through complex data and metrics",
     projectDate: " May 10, 2022",
     ProjectProgress: "Finished",
     githubLink: "https://github.com/DanXtech/Dashboard-Designs-Dev-1",
